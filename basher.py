@@ -1,0 +1,10 @@
+#x = float(input("enter a number"))
+#y=float(input("enter a number"))
+#z= (x+y)
+#print(z)
+#c = input("enter a name")
+#d=input("enter a name")
+#j=input("enter a number")
+#story= c + d+j
+#print(story)
+print("hss\"dsds" )
